@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Text" parent="TextAppearance.AppCompat" />
+
+    <style name="Text.Regular">
+        <item name="fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="Text.Regular.12">
+        <item name="lineHeight">17sp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/grey_text</item>
+    </style>
+
+    <style name="Text.Regular.15">
+        <item name="lineHeight">22sp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/grey_text</item>
+    </style>
+
+    <style name="Text.Medium">
+        <item name="fontFamily">@font/roboto_medium</item>
+    </style>
+
+    <style name="Text.Medium.16">
+        <item name="android:textSize">16sp</item>
+        <item name="lineHeight">20sp</item>
+    </style>
+
+    <style name="Text.Bold">
+        <item name="fontFamily">@font/roboto_bold</item>
+    </style>
+
+    <style name="Text.Bold.13">
+        <item name="android:textSize">13sp</item>
+        <item name="lineHeight">22sp</item>
+    </style>
+
+    <style name="Text.Bold.12">
+        <item name="android:textSize">12sp</item>
+        <item name="lineHeight">14.06sp</item>
+    </style>
+
+    <style name="Text.Bold.20">
+        <item name="android:textSize">20sp</item>
+        <item name="lineHeight">28sp</item>
+    </style>
+
+</resources>
